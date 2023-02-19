@@ -1,2 +1,2 @@
 
-# Bem vindo ao curso GItHU
+# Bem vindo ao curso GItHUb 
